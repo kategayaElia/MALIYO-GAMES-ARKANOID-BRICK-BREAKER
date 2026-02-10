@@ -1,4 +1,5 @@
 # MALIYO-GAMES-ARKANOID-BRICK-BREAKER
+Full Assignment Available on this link on the google drive: https://drive.google.com/drive/folders/1O3y6D2zoHoTEwxtJZqbi6DeUVWJnQ4MF?usp=drive_link
 MALIYO GAMES ARKANOID BRICK BREAKER ASSIGNMENT
 Here’s a concise documentation draft that covers all the required points for the project:
 Which mini‑game did you choose and why?
